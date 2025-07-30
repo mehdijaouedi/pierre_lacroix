@@ -55,8 +55,7 @@ const ContactPage = () => {
               },
             }}
           >
-            contact@pierrelacroix-expert.com
-          </Typography>
+contact@pierrelacroix-expert.com          </Typography>
         </Box>
 
         {/* <Box display="flex" alignItems="center" gap={2}>
