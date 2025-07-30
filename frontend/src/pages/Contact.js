@@ -43,7 +43,7 @@ const ContactPage = () => {
           <Email sx={{ color: '#757575', fontSize: 30 }} />
           <Typography
             component="a"
-            href="mailto:richardborel.expert@gmail.com"
+            href="mailto:contact@pierrelacroix-expert.com"
             sx={{
               color: '#424242',
               textDecoration: 'none',
@@ -55,7 +55,7 @@ const ContactPage = () => {
               },
             }}
           >
-            pierrelacroix.expert@gmail.com
+            contact@pierrelacroix-expert.com
           </Typography>
         </Box>
 
